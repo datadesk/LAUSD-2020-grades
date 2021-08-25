@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-jupyterlab = "*"
+jupyterlab = "==4.0.0a4"
 altair = "*"
 nb-black = "*"
 altair-latimes = "*"
@@ -13,4 +13,4 @@ altair-latimes = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
